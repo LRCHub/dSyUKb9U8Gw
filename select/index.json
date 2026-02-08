@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "familie",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-08T06:21:03.513289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Der Klang der Familie",
+      "artist": "3 Phase feat. Dr. Motte",
+      "has_synced": false,
+      "path": "select/01_Der_Klang_der_Familie_3_Phase_feat._Dr._Motte.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Familie zuerst",
+      "artist": "Gzuz",
+      "has_synced": true,
+      "path": "select/02_Familie_zuerst_Gzuz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Familie",
+      "artist": "The Minds Of 99",
+      "has_synced": false,
+      "path": "select/03_Familie_The_Minds_Of_99.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FAMILIE BOVEN ALLES",
+      "artist": "STIKSTOF feat. Sticks",
+      "has_synced": true,
+      "path": "select/04_FAMILIE_BOVEN_ALLES_STIKSTOF_feat._Sticks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Familie Boven Alles (Ft. Sticks)",
+      "artist": "Stikstof",
+      "has_synced": true,
+      "path": "select/05_Familie_Boven_Alles_(Ft._Sticks)_Stikstof.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Familie",
+      "artist": "KLAN feat. Oh Brother",
+      "has_synced": true,
+      "path": "select/06_Familie_KLAN_feat._Oh_Brother.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Familie",
+      "artist": "KLAN/Oh Brother",
+      "has_synced": true,
+      "path": "select/07_Familie_KLAN_Oh_Brother.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Familie",
+      "artist": "Bushido feat. Aaliyah",
+      "has_synced": true,
+      "path": "select/08_Familie_Bushido_feat._Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Familie",
+      "artist": "Bushido",
+      "has_synced": true,
+      "path": "select/09_Familie_Bushido.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Familie (Bonustrack)",
+      "artist": "KC Rebell",
+      "has_synced": true,
+      "path": "select/10_Familie_(Bonustrack)_KC_Rebell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Familie",
+      "artist": "Kc Rebell",
+      "has_synced": true,
+      "path": "select/11_Familie_Kc_Rebell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Familie",
+      "artist": "TopGunn",
+      "has_synced": true,
+      "path": "select/12_Familie_TopGunn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "De familie Madrigal",
+      "artist": "Vajen van den Bosch feat. Ruth Jacott & Encanto - Cast",
+      "has_synced": true,
+      "path": "select/13_De_familie_Madrigal_Vajen_van_den_Bosch_feat._Ruth_Jacott_&_Encanto_-_Cast.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "De familie Madrigal (Van \"Encanto\"/Originele Nederlandstalige Soundtrack)",
+      "artist": "Vajèn van den Bosch",
+      "has_synced": true,
+      "path": "select/14_De_familie_Madrigal_(Van__Encanto_Originele_Nederlandstalige_Soundtrack)_Vajèn_van_den_Bosch.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Familie Madrigal",
+      "artist": "Magdalena Turba feat. Uschi Bruning & Encanto - Cast",
+      "has_synced": true,
+      "path": "select/15_Familie_Madrigal_Magdalena_Turba_feat._Uschi_Bruning_&_Encanto_-_Cast.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Familie Madrigal (aus \"Encanto\"/Deutscher Original Film-Soundtrack)",
+      "artist": "Magdalena Turba",
+      "has_synced": true,
+      "path": "select/16_Familie_Madrigal_(aus__Encanto_Deutscher_Original_Film-Soundtrack)_Magdalena_Turba.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Meine Familie",
+      "artist": "Rainald Grebe",
+      "has_synced": false,
+      "path": "select/17_Meine_Familie_Rainald_Grebe.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Familie frumoasa",
+      "artist": "Dani Mocanu",
+      "has_synced": false,
+      "path": "select/18_Familie_frumoasa_Dani_Mocanu.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Povești De Familie",
+      "artist": "Dragonu AKA 47 feat. Cedry2k & Johnny King",
+      "has_synced": true,
+      "path": "select/19_Povești_De_Familie_Dragonu_AKA_47_feat._Cedry2k_&_Johnny_King.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Povești De Familie (feat. Johnny King & Cedry2k)",
+      "artist": "Dragonu AKA 47",
+      "has_synced": true,
+      "path": "select/20_Povești_De_Familie_(feat._Johnny_King_&_Cedry2k)_Dragonu_AKA_47.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "familie",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_familie_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
